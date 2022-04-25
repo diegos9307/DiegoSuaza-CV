@@ -22,7 +22,7 @@
 /* ****************** Reset *************** */
 
 html {
-  /* overflow-x: hidden; */
+  overflow-x: hidden;
   box-sizing: border-box;
   font-family: var(--font);
   font-size: 16px;
