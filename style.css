@@ -405,7 +405,7 @@ progress::-webkit-progress-value {
 }
 
 progress::-moz-progress-bar {
-  background-color: var(--gray-dark-color);
+  background-color: var(--first-color);
 }
 
 .progress {
@@ -718,11 +718,11 @@ progress::-moz-progress-bar {
   }
 
   .portfolio > .container {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .portfolio .section-title {
-    grid-column: span 3;
+    grid-column: span 2;
   }
 
   .services > .container {
